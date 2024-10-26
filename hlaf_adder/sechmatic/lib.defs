@@ -1,0 +1,14 @@
+DEFINE sechmatic sechmatic
+ASSIGN sechmatic libMode shared
+ASSIGN Generic_250nm_Devices libMode shared
+ASSIGN SPICE_Sources libMode shared
+ASSIGN SPICE_Plot libMode shared
+ASSIGN Misc libMode shared
+DEFINE Generic_250nm_Devices ..\..\..\My Documents\Tanner_EDA\Tanner_Tools_v2018.3\Process\Generic_250nm\Generic_250nm_Devices
+ASSIGN Generic_250nm_Devices libMode shared
+DEFINE Misc ..\..\..\My Documents\Tanner_EDA\Tanner_Tools_v2018.3\Process\Standard_Libraries\Misc
+ASSIGN Misc libMode shared
+DEFINE SPICE_Sources ..\..\..\My Documents\Tanner_EDA\Tanner_Tools_v2018.3\Process\Standard_Libraries\SPICE_Sources
+ASSIGN SPICE_Sources libMode shared
+DEFINE SPICE_Plot ..\..\..\My Documents\Tanner_EDA\Tanner_Tools_v2018.3\Process\Standard_Libraries\SPICE_Plot
+ASSIGN SPICE_Plot libMode shared
